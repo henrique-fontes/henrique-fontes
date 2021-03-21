@@ -2,7 +2,7 @@
 
 #### Who am I?
 
-Hello, and welcome! My name is Henrique Luiz, i'm from Brazil 🇧🇷 and i'm student of **web development**.
+Hello, and welcome! My name is Henrique Luiz, I'm from Brazil 🇧🇷 and I'm student of **web development**.
 
 ### ❓ About Me  
   -  💻 Jr. Developer in Front-End.
