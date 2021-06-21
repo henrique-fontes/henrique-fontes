@@ -5,8 +5,8 @@
 Hello, and welcome! My name is Henrique Luiz, I'm from Brazil 🇧🇷 and I'm student of **web development**.
 
 ### ❓ About Me  
-  -  💻 Back-end Jr. Developer.
-  -  📚 Studying Socket.io and NodeJS.
+  -  💻 Back-end Enthusiast.
+  -  📚 Studying NodeJS and Typescript.
   -   💡 Seeking more knowledge.
 
 ### 📝 Contact 
