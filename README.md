@@ -13,4 +13,4 @@ Hello, and welcome! My name is Henrique Luiz, I'm from Brazil 🇧🇷 and I'm s
 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hnrq.luiz1@gmail.com)](mailto:hnrq.luiz1@gmail.com)
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henriquefontes&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henriquefontes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
