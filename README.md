@@ -2,7 +2,7 @@
 
 #### Who am I?
 
-Hello, and welcome! My name is Henrique Luiz, I'm from Brazil 🇧🇷 and 17 years old**.
+Hello, and welcome! My name is Henrique Luiz, I'm from **Brazil** 🇧🇷 and 17 years old.
 
 ### ❓ About Me  
   -  💻 Web development.
