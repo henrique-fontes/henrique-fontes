@@ -2,12 +2,12 @@
 
 #### Who am I?
 
-Hello, and welcome! My name is Henrique Luiz, I'm from Brazil 🇧🇷 and I'm student of **web development**.
+Hello, and welcome! My name is Henrique Luiz, I'm from Brazil 🇧🇷 and 17 years old**.
 
 ### ❓ About Me  
-  -  💻 Back-end Enthusiast.
-  -  📚 Studying NodeJS and Typescript.
-  -   💡 Seeking more knowledge.
+  -  💻 Web development.
+  -  📚 Studying Back-end.
+  -  💡 Love learning.
 
 ### 📝 Contact 
 
