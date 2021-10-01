@@ -6,7 +6,7 @@ Hello, and welcome! My name is Henrique Luiz, I'm from **Brazil** 🇧🇷 and 1
 
 ### ❓ About Me  
   -  💻 Web development.
-  -  📚 Studying Back-end.
+  -  📚 Full Stack Enthusiast.
   -  💡 Love learning.
 
 ### 📝 Contact 
