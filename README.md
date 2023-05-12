@@ -5,7 +5,7 @@
 Hello, and welcome! My name is Henrique Luiz, I'm from **Brazil** 🇧🇷 and 18 years old.
 
 ### ❓ About Me  
-  -  🌱 | Current Task: Learn ExtJS
+  -  🌱 | Learning: Java, ExtJS
   -  💻 | Web development.
   -  📚 | Full Stack Enthusiast.
   -  💡 | Love learning.
