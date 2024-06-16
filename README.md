@@ -2,11 +2,11 @@
   
 #### Who am I?
 
-Hello, and welcome! My name is Henrique Luiz, I'm from **Brazil** 🇧🇷 and 19 years old.
+Hello, and welcome! My name is Henrique Luiz, I'm from **Brazil** 🇧🇷 and 20 years old.
 Currently I'm working as a fullstack developer.
 
 ### ❓ About Me  
-  -  🌱 | Learning: Java, ExtJS
+  -  🌱 | Studying: Information Systems at PUC Minas.
   -  💻 | Web development.
   -  📚 | Full Stack Enthusiast.
   -  💡 | Love learning.
